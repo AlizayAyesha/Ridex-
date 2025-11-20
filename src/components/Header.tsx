@@ -21,7 +21,7 @@ const Header: React.FC = () => {
       <div className="container">
         <div className="overlay" data-overlay onClick={toggleNav}></div>
         <a href="#" className="logo">
-          <img src="./backup/assets/images/logo.svg" alt="Ridex logo" />
+          <img src="/assets/images/logo.svg" alt="Ridex logo" />
         </a>
         <nav className="navbar" data-navbar>
           <ul className="navbar-list">

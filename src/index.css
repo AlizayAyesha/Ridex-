@@ -1013,7 +1013,7 @@ button, a { transition: var(--transition); }
 
   .hero-banner {
     display: block;
-    background: url("./backup/assets/images/hero-banner.jpg") no-repeat;
+    background: url("/assets/images/hero-banner.jpg") no-repeat;
     background-size: cover;
     background-position: left;
     position: absolute;

@@ -54,7 +54,7 @@ const Hero: React.FC = () => {
             left: '-250px',
             width: '750px',
             height: '500px',
-            backgroundImage: 'url(/backup/assets/images/bghero.png)',
+            backgroundImage: 'url(/assets/images/bghero.png)',
             backgroundSize: 'cover',
             backgroundPosition: 'center',
             backgroundRepeat: 'no-repeat',

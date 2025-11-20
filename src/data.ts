@@ -5,7 +5,7 @@ export const cars: Car[] = [
     id: 1,
     name: 'Toyota RAV4',
     year: 2021,
-    image: './backup/assets/images/car-1.jpg',
+    image: '/assets/images/car-1.jpg',
     price: 440,
     features: {
       people: 4,
@@ -18,7 +18,7 @@ export const cars: Car[] = [
     id: 2,
     name: 'BMW 3 Series',
     year: 2019,
-    image: './backup/assets/images/car-2.jpg',
+    image: '/assets/images/car-2.jpg',
     price: 350,
     features: {
       people: 4,
@@ -31,7 +31,7 @@ export const cars: Car[] = [
     id: 3,
     name: 'Volkswagen T-Cross',
     year: 2020,
-    image: './backup/assets/images/car-3.jpg',
+    image: '/assets/images/car-3.jpg',
     price: 400,
     features: {
       people: 4,
@@ -44,7 +44,7 @@ export const cars: Car[] = [
     id: 4,
     name: 'Cadillac Escalade',
     year: 2020,
-    image: './backup/assets/images/car-4.jpg',
+    image: '/assets/images/car-4.jpg',
     price: 620,
     features: {
       people: 4,
@@ -57,7 +57,7 @@ export const cars: Car[] = [
     id: 5,
     name: 'BMW 4 Series GTI',
     year: 2021,
-    image: './backup/assets/images/car-5.jpg',
+    image: '/assets/images/car-5.jpg',
     price: 530,
     features: {
       people: 4,
@@ -70,7 +70,7 @@ export const cars: Car[] = [
     id: 6,
     name: 'BMW 4 Series',
     year: 2019,
-    image: './backup/assets/images/car-6.jpg',
+    image: '/assets/images/car-6.jpg',
     price: 490,
     features: {
       people: 4,
@@ -112,7 +112,7 @@ export const blogPosts: BlogPost[] = [
   {
     id: 1,
     title: 'Opening of new offices of the company',
-    image: './backup/assets/images/blog-1.jpg',
+    image: '/assets/images/blog-1.jpg',
     badge: 'Company',
     date: 'January 14, 2022',
     comments: 114
@@ -120,7 +120,7 @@ export const blogPosts: BlogPost[] = [
   {
     id: 2,
     title: 'What cars are most vulnerable',
-    image: './backup/assets/images/blog-2.jpg',
+    image: '/assets/images/blog-2.jpg',
     badge: 'Repair',
     date: 'January 14, 2022',
     comments: 114
@@ -128,7 +128,7 @@ export const blogPosts: BlogPost[] = [
   {
     id: 3,
     title: 'Statistics showed which average age',
-    image: './backup/assets/images/blog-3.jpg',
+    image: '/assets/images/blog-3.jpg',
     badge: 'Cars',
     date: 'January 14, 2022',
     comments: 114
@@ -136,7 +136,7 @@ export const blogPosts: BlogPost[] = [
   {
     id: 4,
     title: 'What´s required when renting a car?',
-    image: './backup/assets/images/blog-4.jpg',
+    image: '/assets/images/blog-4.jpg',
     badge: 'Cars',
     date: 'January 14, 2022',
     comments: 114
@@ -144,7 +144,7 @@ export const blogPosts: BlogPost[] = [
   {
     id: 5,
     title: 'New rules for handling our cars',
-    image: './backup/assets/images/blog-5.jpg',
+    image: '/assets/images/blog-5.jpg',
     badge: 'Company',
     date: 'January 14, 2022',
     comments: 114

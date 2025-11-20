@@ -7,7 +7,7 @@ const Footer: React.FC = () => {
         <div className="footer-top">
           <div className="footer-brand">
             <a href="#" className="logo">
-              <img src="./backup/assets/images/logo.svg" alt="Ridex logo" />
+              <img src="/assets/images/logo.svg" alt="Ridex logo" />
             </a>
             <p className="footer-text">
               Search for cheap rental cars in New York. With a diverse fleet of 19,000 vehicles, Waydex offers its
