@@ -1,7 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { cars } from '../data';
-import { Car } from '../types';
 
 const FeaturedCars: React.FC = () => {
   return (
@@ -68,5 +67,6 @@ const FeaturedCars: React.FC = () => {
     </section>
   );
 };
+
 
 export default FeaturedCars;
