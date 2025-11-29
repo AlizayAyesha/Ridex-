@@ -867,6 +867,30 @@ button, a { transition: var(--transition); }
 \*-----------------------------------*/
 
 /**
+ * responsive for small screens (max-width: 768px)
+ */
+
+@media (max-width: 768px) {
+  .hero-video-wrapper {
+    display: none;
+  }
+
+  .hero-form {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .input-wrapper:not(:last-of-type) {
+    border-bottom: 1px solid hsla(0, 0%, 0%, 0.08);
+    border-right: none;
+  }
+
+  .hero-content {
+    text-align: center;
+  }
+}
+
+/**
  * responsive for large than 350px screen
  */
 

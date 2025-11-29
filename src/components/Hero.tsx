@@ -38,6 +38,7 @@ const Hero: React.FC = () => {
           <button type="submit" className="btn">Search</button>
         </motion.form>
         <motion.div
+          className="hero-video-wrapper"
           animate={{
             scale: [1, 1.05, 1],
           }}
